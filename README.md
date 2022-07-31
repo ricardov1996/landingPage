@@ -1,6 +1,6 @@
 # Título del Proyecto
 
-_Juan Diaz Villegas_
+_Ricardo Valdes Salinas_
 
 ## Comenzando 🚀
 
